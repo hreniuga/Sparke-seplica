@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Contact" max_length="40" name="x_298117_sparks_re_contact" type="collection">
+        <element label="First name" max_length="40" name="first_name" type="string"/>
+        <element label="Last name" max_length="40" name="last_name" type="string"/>
+        <element label="Middle name" max_length="40" name="middle_name" type="string"/>
+        <element attributes="allow_references=true" choice="1" choice_field="contact_method" choice_table="x_298117_sparks_re_prefered_contact_method" dependent="prefered_contact_method" dependent_on_field="prefered_contact_method" label="Prefered contact method" max_length="40" name="prefered_contact_method" reference="x_298117_sparks_re_prefered_contact_method" type="choice" use_dependent_field="true">
+            <choice>
+                <element inactive_on_update="false" label="E-mail" value="E-mail"/>
+            </choice>
+        </element>
+    </element>
+</database>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="8ebf901ddb860010db9b178039961996" sys_domain="global" table="x_298117_sparks_re_contact_method" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact_method</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-29 20:35:01</sys_created_on>
+            <sys_id>8ebf901ddb860010db9b1780399619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_298117_sparks_re_contact_method" sys_domain="global" view="Default view">8ebf901ddb860010db9b178039961996</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-29 20:35:01</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_298117_sparks_re_contact_method</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-29 20:35:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ebf901ddb860010db9b178039961996</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_298117_sparks_re_contact_method</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope>
+            <sys_update_name>sys_ui_section_8ebf901ddb860010db9b178039961996</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-29 20:35:01</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</application>
+        <file_path/>
+        <instance_id>47063143dbd31b0452e3f70fbf9619ed</instance_id>
+        <instance_name>dev65754</instance_name>
+        <name>sys_ui_section_8ebf901ddb860010db9b178039961996</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="8ebf901ddb860010db9b178039961996" sys_domain="global" table="x_298117_sparks_re_contact_method" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>contact_method</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-29 20:35:01</sys_created_on><sys_id>8ebf901ddb860010db9b1780399619da</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_298117_sparks_re_contact_method" sys_domain="global" view="Default view">8ebf901ddb860010db9b178039961996</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-29 20:35:01</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_298117_sparks_re_contact_method</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-29 20:35:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8ebf901ddb860010db9b178039961996</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_298117_sparks_re_contact_method</sys_name><sys_overrides/><sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package><sys_policy/><sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope><sys_update_name>sys_ui_section_8ebf901ddb860010db9b178039961996</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-29 20:35:01</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>631066879</payload_hash>
+        <record_name>Contact method</record_name>
+        <reverted_from/>
+        <source>ce3bafc0dbc6c010db9b1780399619f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-29 20:35:01</sys_created_on>
+        <sys_id>86bf901ddb860010db9b1780399619dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f535e883e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-29 20:35:01</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>02bf901de58600103a7d12dab6faaedc</update_guid>
+        <update_guid_history>02bf901de58600103a7d12dab6faaedc:631066879,42bf901dc686001076685e8a31982799:-631594089</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-29 21:11:59</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>05ee72dbb04149d0bdac973417a20910</sys_id>
+        <sys_metadata>8ebf901ddb860010db9b178039961996</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_298117_sparks_re_contact_method</sys_name>
+        <sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package>
+        <sys_parent display_value="">71be1c99db860010db9b1780399619c1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope>
+        <sys_scope_delete display_value="">76e92132b90547cea300f64252215c01</sys_scope_delete>
+        <sys_update_name>sys_ui_section_8ebf901ddb860010db9b178039961996</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_8ebf901ddb860010db9b178039961996">86bf901ddb860010db9b1780399619dc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-29 21:11:59</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

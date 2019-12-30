@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Prefered contact method" max_length="40" name="x_298117_sparks_re_prefered_contact_method" type="collection">
+        <element attributes="allow_references=true" choice="1" dependent="contact_method" dependent_on_field="contact_method" label="Contact method" max_length="40" name="contact_method" type="string" use_dependent_field="true">
+            <choice/>
+        </element>
+    </element>
+</database>

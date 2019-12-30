@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-29 21:53:39</sys_created_on>
+        <sys_id>35b170dddbc60010db9b1780399619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_298117_sparks_re_prefered_contact_method.x_298117_sparks_re.prefered_contact_method_user</sys_name>
+        <sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope>
+        <sys_security_acl display_value="x_298117_sparks_re_prefered_contact_method">b5b170dddbc60010db9b1780399619c7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_35b170dddbc60010db9b1780399619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-29 21:53:39</sys_updated_on>
+        <sys_user_role display_value="x_298117_sparks_re.prefered_contact_method_user" name="x_298117_sparks_re.prefered_contact_method_user">e521dc1ddb460010db9b1780399619d9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</application>
+        <file_path/>
+        <instance_id>47063143dbd31b0452e3f70fbf9619ed</instance_id>
+        <instance_name>dev65754</instance_name>
+        <name>sys_security_acl_role_35b170dddbc60010db9b1780399619ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-29 21:53:39</sys_created_on><sys_id>35b170dddbc60010db9b1780399619ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_298117_sparks_re_prefered_contact_method.x_298117_sparks_re.prefered_contact_method_user</sys_name><sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package><sys_policy/><sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope><sys_security_acl display_value="x_298117_sparks_re_prefered_contact_method">b5b170dddbc60010db9b1780399619c7</sys_security_acl><sys_update_name>sys_security_acl_role_35b170dddbc60010db9b1780399619ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-29 21:53:39</sys_updated_on><sys_user_role display_value="x_298117_sparks_re.prefered_contact_method_user" name="x_298117_sparks_re.prefered_contact_method_user">e521dc1ddb460010db9b1780399619d9</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1841238788</payload_hash>
+        <record_name>x_298117_sparks_re_prefered_contact_method.x_298117_sparks_re.prefered_contact_method_user</record_name>
+        <reverted_from/>
+        <source>ce3bafc0dbc6c010db9b1780399619f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-29 21:53:39</sys_created_on>
+        <sys_id>f9b170dddbc60010db9b1780399619cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f53a6848f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-29 21:53:39</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>35b170dd60c600108729828f32d99dcc</update_guid>
+        <update_guid_history>35b170dd60c600108729828f32d99dcc:1841238788</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_298117_sparks_re_prefered_contact_method.x_298117_sparks_re.prefered_contact_m">c73bf059db0a0010db9b17803996197e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-29 22:35:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>01e6868e7fb84c008049b12ef7100000</sys_id>
+        <sys_metadata>35b170dddbc60010db9b1780399619ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_298117_sparks_re_prefered_contact_method.x_298117_sparks_re.prefered_contact_method_user</sys_name>
+        <sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package>
+        <sys_parent display_value="">b5b170dddbc60010db9b1780399619c7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope>
+        <sys_scope_delete display_value="">76e92132b90547cea300f64252215c01</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_35b170dddbc60010db9b1780399619ca</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_35b170dddbc60010db9b1780399619ca">f9b170dddbc60010db9b1780399619cc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-29 22:35:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

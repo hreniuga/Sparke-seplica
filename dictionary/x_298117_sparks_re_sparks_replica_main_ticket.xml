@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Sparks replica main ticket" max_length="40" name="x_298117_sparks_re_sparks_replica_main_ticket" type="collection">
+        <element label="Brief description" max_length="40" name="brief_description" type="string"/>
+        <element choice="1" label="Contact" max_length="40" name="contact" type="choice">
+            <choice/>
+        </element>
+        <element label="Entitlement" max_length="32" name="entitlement" reference="x_298117_sparks_re_contract" type="reference"/>
+        <element label="Interaction description" max_length="40" name="interaction_description" type="string"/>
+        <element choice="1" choice_field="request_type" choice_table="x_298117_sparks_re_request_type" label="Request type" max_length="40" name="request_type" reference="x_298117_sparks_re_request_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+            </choice>
+        </element>
+        <element choice="1" label="Status" max_length="32" name="status" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="entitlement"/>
+        </index>
+        <index name="index2">
+            <element name="status"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="u_glide_list_3" table="x_298117_sparks_re_sparks_replica_main" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_glide_list_3</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- New choice --</label>
+            <language>en</language>
+            <name>x_298117_sparks_re_sparks_replica_main</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-29 14:10:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>41b7c7c9db420010db9b178039961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-29 14:10:29</sys_updated_on>
+            <value>-- New choice --</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_glide_list_3</element>
+            <name>x_298117_sparks_re_sparks_replica_main</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-29 14:10:29</sys_created_on>
+            <sys_id>89b7c7c9db420010db9b178039961984</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_glide_list_3</sys_name>
+            <sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope>
+            <sys_update_name>sys_choice_x_298117_sparks_re_sparks_replica_main_u_glide_list_3</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-29 14:10:29</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</application>
+        <file_path/>
+        <instance_id>47063143dbd31b0452e3f70fbf9619ed</instance_id>
+        <instance_name>dev65754</instance_name>
+        <name>sys_choice_x_298117_sparks_re_sparks_replica_main_u_glide_list_3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="u_glide_list_3" table="x_298117_sparks_re_sparks_replica_main" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>u_glide_list_3</element><hint/><inactive>false</inactive><label>-- New choice --</label><language>en</language><name>x_298117_sparks_re_sparks_replica_main</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-29 14:10:29</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>41b7c7c9db420010db9b178039961984</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-29 14:10:29</sys_updated_on><value>-- New choice --</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>u_glide_list_3</element><name>x_298117_sparks_re_sparks_replica_main</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-29 14:10:29</sys_created_on><sys_id>89b7c7c9db420010db9b178039961984</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_glide_list_3</sys_name><sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package><sys_policy/><sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope><sys_update_name>sys_choice_x_298117_sparks_re_sparks_replica_main_u_glide_list_3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-29 14:10:29</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1352586932</payload_hash>
+        <record_name>Sparks replica main tickets.Severity</record_name>
+        <reverted_from/>
+        <source>ce3bafc0dbc6c010db9b1780399619f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-29 14:10:29</sys_created_on>
+        <sys_id>41b7c7c9db420010db9b178039961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f51fe786e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-29 14:10:29</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>c9b7c7c9d0420010058b6613007c0b85</update_guid>
+        <update_guid_history>c9b7c7c9d0420010058b6613007c0b85:-1352586932</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-29 14:59:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>89b7c7c9db420010db9b178039961984</sys_id>
+        <sys_metadata>89b7c7c9db420010db9b178039961984</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_glide_list_3</sys_name>
+        <sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope>
+        <sys_scope_delete display_value="">76e92132b90547cea300f64252215c01</sys_scope_delete>
+        <sys_update_name>sys_choice_x_298117_sparks_re_sparks_replica_main_u_glide_list_3</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_298117_sparks_re_sparks_replica_main_u_glide_list_3">41b7c7c9db420010db9b178039961986</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-29 14:59:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

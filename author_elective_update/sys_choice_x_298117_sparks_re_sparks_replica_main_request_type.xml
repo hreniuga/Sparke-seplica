@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="request_type" table="x_298117_sparks_re_sparks_replica_main" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Website Functionality</label>
+            <language>en</language>
+            <name>x_298117_sparks_re_sparks_replica_main</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-29 14:06:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ad68f89db420010db9b178039961960</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-29 14:06:43</sys_updated_on>
+            <value>Website Functionality</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>request_type</element>
+            <name>x_298117_sparks_re_sparks_replica_main</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-29 13:12:37</sys_created_on>
+            <sys_id>ed7afe49db020010db9b178039961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>request_type</sys_name>
+            <sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope>
+            <sys_update_name>sys_choice_x_298117_sparks_re_sparks_replica_main_request_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-29 13:12:37</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</application>
+        <file_path/>
+        <instance_id>47063143dbd31b0452e3f70fbf9619ed</instance_id>
+        <instance_name>dev65754</instance_name>
+        <name>sys_choice_x_298117_sparks_re_sparks_replica_main_request_type</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="request_type" table="x_298117_sparks_re_sparks_replica_main" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>request_type</element><hint/><inactive>false</inactive><label>Website Functionality</label><language>en</language><name>x_298117_sparks_re_sparks_replica_main</name><sequence>10</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-29 14:06:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8ad68f89db420010db9b178039961960</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-29 14:06:43</sys_updated_on><value>Website Functionality</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>request_type</element><name>x_298117_sparks_re_sparks_replica_main</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-29 13:12:37</sys_created_on><sys_id>ed7afe49db020010db9b178039961966</sys_id><sys_mod_count>0</sys_mod_count><sys_name>request_type</sys_name><sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package><sys_policy/><sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope><sys_update_name>sys_choice_x_298117_sparks_re_sparks_replica_main_request_type</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-29 13:12:37</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>1969472076</payload_hash>
+        <record_name>x_298117_sparks_re_sparks_replica_main.request_type</record_name>
+        <reverted_from/>
+        <source>ce3bafc0dbc6c010db9b1780399619f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-29 14:59:36</sys_created_on>
+        <sys_id>b0f21b85db820010db9b17803996195a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f522b738b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-29 14:59:36</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>3cf21b8566820010dad706833fe4ad59</update_guid>
+        <update_guid_history>3cf21b8566820010dad706833fe4ad59:1969472076,f4f21b855b820010f0f3da97c9176e57:1421384065,b0f21b851a82001001ab9697bf30ee55:2126127721,7cf21b8560820010b56a20f2511cb852:-323875496,38f21b85ea820010db389a01057bfc50:-1373431198,f0f21b851a8200109a9c2de82fe3db4e:38102381,bcf21b85e68200104b6a6bf97624bc4b:2081912413,78f21b851e82001071052da5cfc94649:1926286250,34f21b85f5820010231e764a2233a647:-1009050846,fcf21b85eb82001050bcbf8e16dbda44:1131805227,b8f21b8518820010116a28390fbd4042:79960021,42d68f89794200100caa68236de32063:-835488836,a17a32cd3702001028ecb0c04a828327:1947970764</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-29 14:59:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>ed7afe49db020010db9b178039961966</sys_id>
+        <sys_metadata>ed7afe49db020010db9b178039961966</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>request_type</sys_name>
+        <sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope>
+        <sys_scope_delete display_value="">76e92132b90547cea300f64252215c01</sys_scope_delete>
+        <sys_update_name>sys_choice_x_298117_sparks_re_sparks_replica_main_request_type</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_298117_sparks_re_sparks_replica_main_request_type">b0f21b85db820010db9b17803996195a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-29 14:59:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

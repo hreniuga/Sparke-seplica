@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="prefered_contact_method" table="x_298117_sparks_re_contact" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>prefered_contact_method</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pigeon</label>
+            <language>en</language>
+            <name>x_298117_sparks_re_contact</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-29 22:55:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e2af7c5ddb0a0010db9b17803996195f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-29 22:55:09</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>prefered_contact_method</element>
+            <name>x_298117_sparks_re_contact</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-29 22:39:41</sys_created_on>
+            <sys_id>d04cb499db0a0010db9b1780399619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>prefered_contact_method</sys_name>
+            <sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope>
+            <sys_update_name>sys_choice_x_298117_sparks_re_contact_prefered_contact_method</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-29 22:39:41</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</application>
+        <file_path/>
+        <instance_id>47063143dbd31b0452e3f70fbf9619ed</instance_id>
+        <instance_name>dev65754</instance_name>
+        <name>sys_choice_x_298117_sparks_re_contact_prefered_contact_method</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="prefered_contact_method" table="x_298117_sparks_re_contact" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>prefered_contact_method</element><hint/><inactive>false</inactive><label>Pigeon</label><language>en</language><name>x_298117_sparks_re_contact</name><sequence/><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-29 22:55:09</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e2af7c5ddb0a0010db9b17803996195f</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-29 22:55:09</sys_updated_on><value/></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>prefered_contact_method</element><name>x_298117_sparks_re_contact</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-29 22:39:41</sys_created_on><sys_id>d04cb499db0a0010db9b1780399619cf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>prefered_contact_method</sys_name><sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package><sys_policy/><sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope><sys_update_name>sys_choice_x_298117_sparks_re_contact_prefered_contact_method</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-29 22:39:41</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1120005640</payload_hash>
+        <record_name>Contact.Prefered contact method</record_name>
+        <reverted_from/>
+        <source>ce3bafc0dbc6c010db9b1780399619f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-30 13:04:41</sys_created_on>
+        <sys_id>0b3244e5dbc24010db9b17803996199f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f56e896ea0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-30 13:04:41</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>833244e56fc24010002373fc48c1589f</update_guid>
+        <update_guid_history>833244e56fc24010002373fc48c1589f:-1120005640,8b3244e519c24010d282bcb2dffc0d9c:1863418228,3ecf709d660a00102b930142c6d0df46:-97453839,66afb09d500a00103b25a1fe40e9149e:-951552940,016cb099e80a001069eeca14e5cc1407:1039526513,144cb499220a0010e77408abb817f9d0:-488356487,bc3970d5ee0a00108a608c902d0d772b:1937737049,4029fc95820a00100893b387690072b6:-488356487,6f383095190a0010ce0acf936fc02db5:1937737049,e7f3549d3b46001004e72ed3c5a44dbb:-488356487</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-30 13:04:41</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>d04cb499db0a0010db9b1780399619cf</sys_id>
+        <sys_metadata>d04cb499db0a0010db9b1780399619cf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>prefered_contact_method</sys_name>
+        <sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope>
+        <sys_scope_delete display_value="">76e92132b90547cea300f64252215c01</sys_scope_delete>
+        <sys_update_name>sys_choice_x_298117_sparks_re_contact_prefered_contact_method</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_298117_sparks_re_contact_prefered_contact_method">0b3244e5dbc24010db9b17803996199f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-30 13:04:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

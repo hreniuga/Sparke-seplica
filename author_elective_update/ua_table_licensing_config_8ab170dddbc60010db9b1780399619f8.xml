@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_298117_sparks_re_prefered_contact_method</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-29 21:53:39</sys_created_on>
+        <sys_id>8ab170dddbc60010db9b1780399619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_298117_sparks_re_prefered_contact_method</sys_name>
+        <sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope>
+        <sys_update_name>ua_table_licensing_config_8ab170dddbc60010db9b1780399619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-29 21:53:39</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</application>
+        <file_path/>
+        <instance_id>47063143dbd31b0452e3f70fbf9619ed</instance_id>
+        <instance_name>dev65754</instance_name>
+        <name>ua_table_licensing_config_8ab170dddbc60010db9b1780399619f8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_298117_sparks_re_prefered_contact_method</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-29 21:53:39</sys_created_on><sys_id>8ab170dddbc60010db9b1780399619f8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_298117_sparks_re_prefered_contact_method</sys_name><sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package><sys_policy/><sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope><sys_update_name>ua_table_licensing_config_8ab170dddbc60010db9b1780399619f8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-29 21:53:39</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-2095225890</payload_hash>
+        <record_name>x_298117_sparks_re_prefered_contact_method</record_name>
+        <reverted_from/>
+        <source>ce3bafc0dbc6c010db9b1780399619f3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-29 21:53:39</sys_created_on>
+        <sys_id>02b170dddbc60010db9b1780399619fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f53a6855a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-29 21:53:39</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>4ab170dd44c60010d942cb78a06148f9</update_guid>
+        <update_guid_history>4ab170dd44c60010d942cb78a06148f9:-2095225890</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-29 22:35:15</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>7b126ed0d72e43268a020625605fdd24</sys_id>
+        <sys_metadata>8ab170dddbc60010db9b1780399619f8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_298117_sparks_re_prefered_contact_method</sys_name>
+        <sys_package display_value="Sparks replica" source="x_298117_sparks_re">0e3bafc0dbc6c010db9b1780399619f1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Sparks replica">0e3bafc0dbc6c010db9b1780399619f1</sys_scope>
+        <sys_scope_delete display_value="">76e92132b90547cea300f64252215c01</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_8ab170dddbc60010db9b1780399619f8</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_8ab170dddbc60010db9b1780399619f8">02b170dddbc60010db9b1780399619fa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-29 22:35:15</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
